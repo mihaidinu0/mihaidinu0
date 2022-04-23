@@ -1,8 +1,4 @@
 # Mihai DINU
-**Founder @ Cevity Web**
+**Developer @ Cevity Web**
 
-**Computer Science @ Politehnica University of Bucharest**
-
-
-
-**Profile README will be updated soon.**
+**Computer Science Undergrad @ Politehnica University of Bucharest**
