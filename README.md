@@ -1,4 +1,3 @@
 # Mihai DINU
-**Developer @ Cevity Web**
 
-**Computer Science Undergrad @ Politehnica University of Bucharest**
+**Computer Science Freshman @ Politehnica University of Bucharest**
