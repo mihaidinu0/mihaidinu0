@@ -1,6 +1,8 @@
 # Mihai DINU
 
-**Computer Science Freshman @ Politehnica University of Bucharest**
+**Computer Science Freshman @ [Politehnica University of Bucharest](https://upb.ro/)**
+
+
 
 ## 👨‍🔬 Focus
 - Transitioning to **Software Engineering**
