@@ -3,11 +3,13 @@
 **Computer Science Freshman @ Politehnica University of Bucharest**
 
 ## 👨‍🔬 Focus
-- Transitioning to Software Engineering
+- Transitioning to **Software Engineering**
 - Learning Data Science, then Machine Learning
 
 ## ⚙️ Experience
-- Junior Web Developer @ Cevity.ro (AUG 2021 - Present)
+- **Junior Web Developer** @ [Cevity Web](https://cevity.ro) (AUG 2021 - Present)
+
+
 
 ## 🛠️ Skills
 ### Intermediate
