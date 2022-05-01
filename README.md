@@ -11,12 +11,12 @@
 
 ## 🛠️ Skills
 ### Intermediate
-- Python
-- C/C++
-- HTML, CSS, Javascript
-- Git
-- Jira/Trello
-- Linux / Bash Scripting
+- **Python** - Data Visualization, Quick Scripts to automate spreadsheets
+- **C/C++** - College Projects
+- **HTML, CSS, Javascript** - Professional and Personal Web Development
+- **Git** - Professional and Personal Projects
+- **Jira/Trello**
+- **Linux / Bash Scripting**
 
 ### Basic
 - PHP
