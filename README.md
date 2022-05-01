@@ -20,6 +20,8 @@
 
 ### Basic
 - PHP
+- Data Science
+- OOP
 
 ### ❤️ Hobby
 - Graphic Design: Illustrator, Photoshop, XD
