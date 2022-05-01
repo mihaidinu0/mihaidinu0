@@ -2,14 +2,14 @@
 
 **Computer Science Freshman @ Politehnica University of Bucharest**
 
-## Focus
+## 👨‍🔬 Focus
 - Transitioning to Software Engineering
 - Learning Data Science, then Machine Learning
 
-## Experience
+## ⚙️ Experience
 - Junior Web Developer @ Cevity.ro (AUG 2021 - Present)
 
-## Skills
+## 🛠️ Skills
 ### Intermediate
 - Python
 - C/C++
@@ -21,7 +21,7 @@
 ### Basic
 - PHP
 
-### Hobby
+### ❤️ Hobby
 - Graphic Design: Illustrator, Photoshop, XD
 - 3D Modeling: Blender & Cinema4D
 - Video Editing: Premiere Pro
