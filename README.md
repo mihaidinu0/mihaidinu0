@@ -1,5 +1,4 @@
 # Mihai DINU
-Bucharest, RO
 
 **Computer Science Freshman @ Politehnica University of Bucharest**
 
