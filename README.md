@@ -9,7 +9,7 @@
 - Learning Data Science, then Machine Learning
 
 ## ⚙️ Experience
-- **Junior Web Developer** @ [Cevity Web](https://cevity.ro) (August 2021 - Present)
+- **Freelance Web Developer** @ [Cevity Web](https://cevity.ro) (August 2021 - Present)
 
 
 
