@@ -6,7 +6,7 @@
 
 ## 👨‍🔬 Focus
 - Transitioning to **Software Engineering**
-- Learning Data Science, then Machine Learning
+- Learning Data Science
 
 ## ⚙️ Experience
 - **Freelance Web Developer** @ [Cevity Web](https://cevity.ro) (August 2021 - Present)
