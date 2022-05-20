@@ -26,7 +26,7 @@
 - PHP
 - Data Science
 
-### ❤️ Hobby
+### Hobby
 - Graphic Design: Illustrator, Photoshop, XD
 - 3D Modeling: Blender & Cinema4D
 - Video Editing: Premiere Pro
