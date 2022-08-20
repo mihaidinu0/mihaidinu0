@@ -1,17 +1,12 @@
 # Mihai DINU
 
-**Computer Science Freshman @ [Politehnica University of Bucharest](https://upb.ro/)**
+**Computer Science Undergraduate @ [Politehnica University of Bucharest](https://upb.ro/)**
 
 
 
 ## 👨‍🔬 Focus
 - Transitioning to **Software Engineering**
 - Learning Data Science
-
-## ⚙️ Experience
-- **Freelance Web Developer** @ [Cevity Web](https://cevity.ro) (August 2021 - Present)
-
-
 
 ## 🛠️ Skills
 ### Intermediate
