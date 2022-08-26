@@ -12,7 +12,7 @@
 ### Intermediate
 - **Python** - Data Visualization, Quick Scripts to automate spreadsheets
 - **C/C++** - College Projects
-- **HTML, CSS, Javascript** - Professional and Personal Web Development
+- **HTML, CSS, Javascript** - Personal Web Development
 - **Git** - Professional and Personal Projects
 - **Jira/Trello**
 - **Linux / Bash Scripting**
